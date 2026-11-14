@@ -2,6 +2,8 @@
 
 Sticky notes for macOS that can turn to dust.
 
+**[Website and download](https://adrienbalcioglu.github.io/pouf/)**
+
 Put a timer on a note. When the time is up, the note disintegrates on your screen and is gone for good.
 
 ## Features
